@@ -1,3 +1,4 @@
 .env
 envedge/
 .envedge/
+.DS_Store
